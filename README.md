@@ -1,29 +1,18 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    SYSTEM INITIALIZATION                      -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101b3d,100:00f0ff&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=60&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,50:6a0dad,100:c800ff&height=250&section=header&text=SEJA%20BEM-VINDO%20%3AD&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=SYSTEM%20ONLINE%20%7C%20WELCOME%20TO%20MY%20PROFILE&descAlignY=65&descSize=15"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=ACCESSING+DEVELOPER+PROFILE...;WELCOME+TO+MY+DIGITAL+LABORATORY+%F0%9F%A4%96;BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME;CODE+%7C+CREATE+%7C+INNOVATE+%7C+REPEAT;SYSTEM+STATUS%3A+ONLINE+%E2%9C%85"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D580FF&center=true&vCenter=true&width=750&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED+%E2%9C%85;WELCOME+TO+MY+DIGITAL+WORLD+%F0%9F%92%9C;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00f0ff?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-bd00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-ff0055?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-9D00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-C850FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-7200FF?style=for-the-badge"/>
 
 </div>
-
----
-
-# `>_ ACCESS GRANTED`
-
-<div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
