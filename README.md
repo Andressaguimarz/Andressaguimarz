@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D580FF&center=true&vCenter=true&width=750&lines=SEJA+BEM-VINDO+%3AD;INITIALIZING+SYSTEM...;ACCESS+GRANTED+%E2%9C%85;WELCOME+TO+MY+DIGITAL+WORLD+%F0%9F%92%9C;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D580FF&center=true&vCenter=true&width=750&lines=SEJA+BEM-VINDO+%3AD;SEJA+BEM-VINDO+%3AD;SEJA+BEM-VINDO+%3AD;SEJA+BEM-VINDO+%3AD;SEJA+BEM-VINDO+%3AD"/>
 
 <br><br>
 
