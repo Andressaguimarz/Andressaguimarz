@@ -37,33 +37,12 @@
 ║  MISSION     :: CREATE • LEARN • INNOVATE                    ║
 ╚══════════════════════════════════════════════════════════════╝
 
-<!--
-**Andressaguimarz/Andressaguimarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 // SOBRE MIM
-￼
+
 Olá! Eu sou a ANDRESSA 👋
 Sou uma pessoa apaixonada por tecnologia, programação e criação de projetos.
 Meu objetivo é transformar ideias em experiências digitais interessantes, sempre buscando aprender novas tecnologias e evoluir minhas habilidades.
 
-profile:
-  name: "ANDRESSA"
-  role: "Developer"
-  location: "Brazil 🇧🇷"
-
-interests:
-  - Programming
-  - Web Development
-  - Artificial Intelligence
-  - Automation
-  - Creative Projects
-  - Open Source
-
-mindset:
-  - Learn
-  - Build
-  - Experiment
-  - Improve
 
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
