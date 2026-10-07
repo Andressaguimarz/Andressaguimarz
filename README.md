@@ -30,7 +30,8 @@
 
 Olá! Eu sou a ANDRESSA 👋
 Sou uma pessoa apaixonada por tecnologia, programação e criação de projetos.
-Meu objetivo é transformar ideias em experiências digitais interessantes, sempre buscando aprender novas tecnologias e evoluir minhas habilidades.
+Meu objetivo é transformar ideias em experiências digitais interessantes,
+sempre buscando aprender novas tecnologias e evoluir minhas habilidades.
 
 
 ╔══════════════════════════════════════════════════════════╗
