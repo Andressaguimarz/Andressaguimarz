@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,50:6a0dad,100:c800ff&height=250&section=header&text=SEJA%20BEM-VINDO%20%3AD&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=SYSTEM%20ONLINE%20%7C%20WELCOME%20TO%20MY%20PROFILE&descAlignY=65&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,50:6a0dad,100:c800ff&height=250&section=header&text=ANDRESSA%20BRAZ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=SYSTEM%20ONLINE%20%7C%20WELCOME%20TO%20MY%20PROFILE&descAlignY=65&descSize=15"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D580FF&center=true&vCenter=true&width=750&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED+%E2%9C%85;WELCOME+TO+MY+DIGITAL+WORLD+%F0%9F%92%9C;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D580FF&center=true&vCenter=true&width=750&lines=SEJA+BEM-VINDO+%3AD;INITIALIZING+SYSTEM...;ACCESS+GRANTED+%E2%9C%85;WELCOME+TO+MY+DIGITAL+WORLD+%F0%9F%92%9C;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME"/>
 
 <br><br>
 
